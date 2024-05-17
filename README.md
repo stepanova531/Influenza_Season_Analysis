@@ -10,7 +10,7 @@ Open source data. Source: CDC and US Census Bureau
 # Tools
 Excel, Tableau
 # Insights & Recommendations
-Storyboard in Tableau(https://public.tableau.com/app/profile/oksana.stepanova/viz/Influenza_Storyboard/PreparingforInfluenzaSeason?publish=yes)
+[Storyboard in Tableau](https://public.tableau.com/app/profile/oksana.stepanova/viz/Influenza_Storyboard/PreparingforInfluenzaSeason?publish=yes)
 
 People over 65 years are at higher risk of developing flu complications and being admitted to the hospital than other age groups.
 - The state with the high rate of aging population will need additional medical staff.
