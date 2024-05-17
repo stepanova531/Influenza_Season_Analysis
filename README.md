@@ -21,3 +21,8 @@ Using influenza mortality rates as an indicator of influenza severity, U.S. stat
 - Five states should be given high priority: California, New York, Florida, Pennsylvania and Texas. 
 - The following states classified as having medium health care needs will also require additional medical staff: Illinois, Ohio, North Carolina, Michigan, Tennessee and Massachusetts.
 - The other states are at low risk for developing influenza complications.
+# Key takeaway
+- It is important to consider data limitations. It allows us to understand the data incompleteness or data inaccuracy and then to determine if the data is relevant for the purpose of analysis and how we can handle the issue with data accuracy.
+- Data mapping helps to match the variable and to understand how to transform them to integrate two data sets into one.
+- Excel formulas and Tableau visualization allow us to conduct descriptive and statistical analysis. The important step of the analysis is the interpretation of statistical coefficients.
+- Tableau is a powerful tool that we can use for analysis and to create a story board for project presentation.
