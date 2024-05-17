@@ -9,3 +9,6 @@ Open source data. Source: CDC and US Census Bureau
 - Influenza lab test results by state
 # Tools
 Excel, Tableau
+# Insights & Recommendations
+People over 65 years are at higher risk of developing flu complications and being admitted to the hospital than other age groups.
+- The state with the high rate of aging population will need additional medical staff. 
