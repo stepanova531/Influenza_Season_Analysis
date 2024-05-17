@@ -15,3 +15,9 @@ People over 65 years are at higher risk of developing flu complications and bein
  
 The next flu season will highly likely begin in December with the highest flu rates in January. The level of flu cases is probably to remain high in February and March. 
 - We anticipate that hospitals will have a critical need for additional medical personnel from December to March.
+
+Using influenza mortality rates as an indicator of influenza severity, U.S. states are classified as having high, medium, and low health care needs. 
+- We recommend developing a staffing plan that prioritizes the allocation of additional health care personnel to states with higher potential influenza mortality rates and high rates of population aging. 
+- Five states should be given high priority: California, New York, Florida, Pennsylvania and Texas. 
+- The following states classified as having medium health care needs will also require additional medical staff: Illinois, Ohio, North Carolina, Michigan, Tennessee and Massachusetts.
+- The other states are at low risk for developing influenza complications.
