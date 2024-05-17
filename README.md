@@ -7,3 +7,5 @@ Open source data. Source: CDC and US Census Bureau
 - Influenza deaths by geography, time, age, and gender
 - Population data by geography
 - Influenza lab test results by state
+# Tools
+Excel, Tableau
