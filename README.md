@@ -5,3 +5,5 @@ To assist the medical staffing agencies with the preparation plan for the upcomi
 # Data
 Open source data. Source: CDC and US Census Bureau
 - Influenza deaths by geography, time, age, and gender
+- Population data by geography
+- Influenza lab test results by state
